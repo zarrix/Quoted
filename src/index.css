@@ -13,12 +13,14 @@
   margin: auto;
   margin-top: 10%;
   display: table;
+  transition-duration: 2s;
 }
 
 #text {
   padding: 30px 30px;
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
+  transition-duration: 2s;
 }
 
 #author {
